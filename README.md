@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wunexoo
 - 👀 I’m interested in games
-- 🌱 I’m currently learning c#
+- 🌱 I’m currently learning c#, java 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me mekhtieviraul@gmail.com
 
